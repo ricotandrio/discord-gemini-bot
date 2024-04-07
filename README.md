@@ -1,3 +1,3 @@
-# discord-chatgpt-bot
+# discord-gemini-bot
 
-Run `node ./src/main.mjs`
+To run this bot use `node ./src/main.mjs`
