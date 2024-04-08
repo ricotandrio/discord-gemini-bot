@@ -1,5 +1,8 @@
 // discord token
-TOKEN=
+DISCORD_TOKEN=
+DISCORD_CHANNEL_ID=
+DISCORD_CLIENT_ID=
+DISCORD_GUILD_ID=
 
 // gemini api key
 GEMINI_API_KEY=

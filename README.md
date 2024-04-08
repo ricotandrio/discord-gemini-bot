@@ -4,5 +4,3 @@ Simple Discord bot used to send requests to Google Gemini. Before running this b
 
 ## Usage
 To use the bot, simply tag your bot and ask a question. Each prompt will be answered in one sentence.
-
-<img src='./assets/image.png' width='500'/>
