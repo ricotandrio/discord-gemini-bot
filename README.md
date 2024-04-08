@@ -17,6 +17,6 @@ To use the bot, simply tag your bot and ask a question. Each prompt will be answ
 ## Discord Permission
 To use this bot, modify the Discord bot with the following permissions.
 
-<img src="./assets/dc-scopes.png.png" width="500">
+<img src="./assets/dc-scopes.png" width="500">
 <img src="./assets/dc-permission.png" width="500">
 
